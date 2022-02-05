@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+          android:keyHeight="54dp"
+          android:verticalGap="1dp"
+          android:horizontalGap="1dp"
+    android:keyWidth="94dp">
+
+    <Row>
+        <Key
+                android:codes="7"
+                android:keyLabel="7" />
+        <Key
+                android:codes="8"
+                android:keyLabel="8" />
+        <Key
+                android:codes="9"
+                android:keyLabel="9" />
+        <Key
+                android:codes="-5"
+                android:isRepeatable="true"/>
+    </Row>
+
+    <Row>
+        <Key
+                android:codes="4"
+                android:keyLabel="4" />
+        <Key
+                android:codes="5"
+                android:keyLabel="5" />
+        <Key
+                android:codes="6"
+                android:keyLabel="6" />
+        <Key
+                android:codes="43"/>
+    </Row>
+
+    <Row>
+        <Key
+                android:codes="1"
+                android:keyLabel="1" />
+        <Key
+                android:codes="2"
+                android:keyLabel="2" />
+        <Key
+                android:codes="3"
+                android:keyLabel="3" />
+        <Key
+                android:codes="45"/>
+    </Row>
+
+    <Row>
+        <Key
+                android:codes="-1"
+                android:keyLabel="@string/reset" />
+        <Key
+                android:codes="0"
+                android:keyLabel="0" />
+        <Key
+                android:codes="10"
+                android:keyLabel="." />
+        <Key
+                android:codes="-2"
+                android:keyLabel="@string/save" />
+    </Row>
+</Keyboard>

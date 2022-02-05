@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:id="@+id/img_assets_item"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@mipmap/icon_assets_alipay"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="16dp"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/txt_name_assets_item"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_toEndOf="@id/img_assets_item"
+        android:text="@string/assets"/>
+
+    <TextView
+        android:id="@+id/assets_item_invest"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/_0_00"
+        android:layout_toStartOf="@+id/detail_btn_assets_item"
+        android:gravity="center"
+        android:textSize="18sp"/>
+
+    <ImageView
+        android:id="@+id/detail_btn_assets_item"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_return_black"
+        android:scaleX="-1"
+        android:alpha="0.5"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="16dp"/>
+
+
+</RelativeLayout>

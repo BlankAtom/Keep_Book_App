@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">记账本</string>
+    <string name="account_book">记账</string>
+    <string name="assets">资产</string>
+    <string name="mine">我的</string>
+    <string name="chart">图表</string>
+    <string name="add_assets">添加资产</string>
+    <string name="net_worth">净资产</string>
+    <string name="delete">删除</string>
+    <string-array name="bank_list">
+        <item>工商银行</item>
+        <item>建设银行</item>
+        <item>中国银行</item>
+        <item>农业银行</item>
+        <item>招商银行</item>
+        <item>平安银行</item>
+        <item>交通银行</item>
+        <item>中信银行</item>
+        <item>兴业银行</item>
+        <item>浦发银行</item>
+        <item>光大银行</item>
+        <item>邮政银行</item>
+        <item>其他银行</item>
+    </string-array>
+    <string-array name="outin">
+        <item>支出</item>
+        <item>收入</item>
+    </string-array>
+    <!--资产-->
+    <string name="zaocan">早餐</string>
+    <string name="wucan">午餐</string>
+    <string name="wancan">晚餐</string>
+    <string name="maicai">买菜</string>
+    <string name="naicha">奶茶</string>
+    <string name="waimai">外卖</string>
+    <string name="shuiguo">水果</string>
+    <string name="gongjiao">公交</string>
+    <string name="dadi">打的</string>
+    <string name="subway">地铁</string>
+    <string name="yinliao">饮料</string>
+    <string name="lingshi">零食</string>
+    <string name="shenghuoyongpin">生活用品</string>
+    <string name="huazhuangpin">化妆品</string>
+    <string name="yifu">衣服</string>
+    <string name="yule">娱乐</string>
+    <string name="gowu">购物</string>
+    <string name="wage">工资</string>
+    <string name="transfer_accounts">转账</string>
+    <string name="other">其他</string>
+    <string name="living_cost">生活费</string>
+    <string name="part_time">兼职</string>
+    <string name="red_picket">红包</string>
+
+    <string name="reimbursement">报销</string>
+    <string name="other_income">其他收入</string>
+    <string name="financial">理财</string>
+    <string name="common">常用</string>
+    <string name="wechat">微信</string>
+    <string name="bank_card">银行卡</string>
+    <string name="alipay">支付宝</string>
+    <string name="credit_card">信用卡</string>
+    <string name="mayihuabei">蚂蚁花呗</string>
+    <string name="mayijiebei">蚂蚁借呗</string>
+    <string name="cash_account">现金账户</string>
+    <string name="cash">现金</string>
+    <string name="bankbook">存折</string>
+    <string name="wangshangdai">网商贷</string>
+    <string name="jingdongbaitiao">京东白条</string>
+    <string name="baoxiao">报销</string>
+    <string name="jiechu">借出</string>
+    <string name="yajin">押金</string>
+    <string name="fanka">饭卡</string>
+    <string name="bus_card">公交卡</string>
+    <string name="shopping_card">购物卡</string>
+    <string name="liquan">礼券</string>
+    <string name="stock">股票</string>
+    <string name="fund">基金</string>
+    <string name="gold">黄金</string>
+    <string name="financial_account">金融账户</string>
+    <string name="credit_account">信用账户</string>
+    <string name="debt_account">债权账户</string>
+    <string name="virtual_account">虚拟账户</string>
+    <string name="invest_account">投资账户</string>
+    <string name="yue">余额</string>
+    <string name="jine">金额</string>
+    <string name="yuan" translatable="false">¥</string>
+    <string name="note">备注</string>
+    <string name="name">名称</string>
+    <string name="reset">清空</string>
+    <string name="save">保存</string>
+    <string name="check_input">发生未知错误</string>
+    <string name="_0_00">0.00</string>
+    <string name="please_input_content">请输入内容</string>
+    <string name="please_input_name">请输入名称</string>
+    <string name="error_format">添加失败</string>
+    <string name="error_voice">输入失败</string>
+    <string name="self_defined">添加自定义资产</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_failure">保存失败</string>
+    <string name="search">搜索</string>
+    <string name="borrowing_name">姓名</string>
+    <string name="input_borrowing_username">请输入借贷人姓名</string>
+    <string name="borrowing_tel">电话</string>
+    <string name="input_tel_tips">请输入联系方式</string>
+    <string name="input_other_msg">其他身份相关备注信息</string>
+    <string name="debt">欠款</string>
+    <string name="refund_date">还款日期</string>
+    <string name="bank">银行</string>
+    <string name="custom">自定义</string>
+    <string name="add_bank">请输入添加银行</string>
+    <string name="select_bank">选择银行</string>
+    <string name="refund_date_format">每月%1$d号</string>
+    <string name="default_refund_date">每月9号</string>
+    <string name="chose_date">选择日期</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <!--记账-->
+    <string name="function_limit">%s项重要功能受限</string>
+    <string name="spending_this_month">本月支出</string>
+    <string name="this_month_the_income">本月收入</string>
+    <string name="no_bills">您还没有账单咧， 赶紧添加一笔吧~</string>
+    <string name="near_detail_3">账单明细 近3笔</string>
+    <string name="near_detail">账单明细</string>
+    <string name="more">更多</string>
+    <string name="to_setting">去设置</string>
+    <string name="spending">支出</string>
+    <string name="income">收入</string>
+    <string name="this_month_left">本月结余</string>
+    <string name="update_failed">更新失败!</string>
+    <!--图表-->
+    <string name="spend_category">支出类别</string>
+    <string name="week">周</string>
+    <string name="all_spend">总支出</string>
+    <string name="daily_average">每日平均值</string>
+    <string name="compare">较上周总支出下降0.00元，日均下降0.00元</string>
+    <string name="compare1"><![CDATA[较上周总支出上涨<font color="#D14747">%1s</font>元，日均上涨<font color="#D14747">%2s</font>元]]></string>
+    <string name="compare2"><![CDATA[较上周总支出下降<font color="#4BB35C">%1s</font>元，日均下降<font color="#4BB35C">%2s</font>元]]></string>
+    <string name="compare3"><![CDATA[较上月总支出下降<font color="#4BB35C">%1s</font>元，日均下降<font color="#4BB35C">%2s</font>元]]></string>
+    <string name="compare4"><![CDATA[较上月总支出上涨<font color="#D14747">%1s</font>元，日均上涨<font color="#D14747">%2s</font>元]]></string>
+    <string name="spend_trajectory">支出轨迹</string>
+    <string name="hms">HMS</string>
+    <string name="bg_red">红底</string>
+    <string name="bg_blue">蓝底</string>
+    <string name="bg_white">白底</string>
+    <string name="desc_add_assets">增加资产</string>
+    <string name="return_str">Return</string>
+    <string name="add_custom_assets">添加自定义资产</string>
+    <string name="picker_value">选择日期</string>
+    <string name="alert_custom_title">选择日期</string>
+</resources>

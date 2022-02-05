@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/account_book"
+            android:icon="@drawable/ic_account_book"
+            android:title="@string/account_book" />
+
+    <item
+            android:id="@+id/assets"
+            android:icon="@drawable/ic_assets"
+            android:title="@string/assets" />
+
+    <item
+            android:id="@+id/borrowing"
+            android:icon="@drawable/ic_borrowing"
+            android:title="@string/chart" />
+
+<!--    <item-->
+<!--            android:id="@+id/about"-->
+<!--            android:icon="@drawable/ic_mine"-->
+<!--            android:title="@string/mine" />-->
+
+</menu>

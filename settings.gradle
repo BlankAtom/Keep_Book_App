@@ -1,0 +1,4 @@
+rootProject.name = "BookKeeping"
+include ':app'//, ':scaffold'
+//project(':scaffold').projectDir = new File('Scaffold/scaffold_core')
+include ':MPChartLib'

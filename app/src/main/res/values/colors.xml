@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/blue</color>
+    <color name="colorAccent">@color/blue</color>
+    <color name="blue">#0097FE</color>
+    <color name="gray">#858688</color>
+    <color name="global_bg">#FFF0F0F0</color>
+    <color name="text_primary">#ff222222</color>
+    <color name="white">#ffffff</color>
+    <color name="white_50">#88ffffff</color>
+    <!-- 分割线-->
+    <color name="divider_color">#E6E6E6</color>
+    <color name="color_fff2f2f2">#fff2f2f2</color>
+    <color name="navigation_bar">#cdcdcd</color>
+
+    <color name="financial_count_positive">#EAB229</color>
+    <color name="black">#000000</color>
+    <color name="backup_data_after_login">#AAAAAA</color>
+
+    <color name="wechat_login_bg">#03D96A</color>
+    <color name="wechat_login_pressed_bg">#8803D96A</color>
+    <color name="phone_login_color">#FFB2B2B2</color>
+    <color name="color_A9A9A9">#A9A9A9</color>
+    <color name="color_444444">#444444</color>
+    <color name="color_ff007aff">#ff007aff</color>
+    <color name="color_88007aff">#88007aff</color>
+    <color name="color_FFF7F7F7">#FFF7F7F7</color>
+    <color name="color_FF007FFA">#FF007FFA</color>
+    <color name="color_FF888888">#FF888888</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_f6f7f8">#f6f7f8</color>
+    
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_007ffa">#007ffa</color>
+    <color name="color_4bb35c">#4BB35C</color>
+    <color name="color_d14747">#D14747</color>
+
+    <color name="chart_color_1">#f2ab11</color>
+    <color name="chart_color_2">#f2d410</color>
+    <color name="chart_color_3">#bdd25b</color>
+    <color name="chart_color_4">#4bb35c</color>
+    <color name="chart_color_5">#03a49e</color>
+    <color name="chart_color_6">#118eeb</color>
+    <color name="chart_color_7">#dc036b</color>
+
+    <color name="border_line">#DFDFDF</color>
+    <color name="bg_gray">#F2F2F2</color>
+    <color name="choice_ring">#FF3B30</color>
+
+</resources>
