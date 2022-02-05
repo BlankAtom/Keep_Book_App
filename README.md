@@ -53,65 +53,62 @@
 
 ## 1、流程图
 
-![img](https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322412.gif) 
+<img src="https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322412.gif" width="600" />
 
-![img](https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322424.gif)
+<img src="https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322424.gif" width="400" />
 
-![img](https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322436.gif)
-
-
+<img src="https://hong-not-pic-1258424340.cos.ap-nanjing.myqcloud.com/notepic/202202051322436.gif" width="300" />
 
 
 
 # 四、任务面板截图
 
-![img](docs/任务面板截图/黄伟强-图表.png)
+<div style="float: left;">
+
+<img src="docs/任务面板截图/黄伟强-图表.png" width="300" />
+<img src="docs/任务面板截图/罗庆宏-资产.png" width="300" />
+<img src="docs/任务面板截图/肖龙海-账本.png" width="300" />
 
 
-
-![img](docs/任务面板截图/罗庆宏-资产.png)
-
+</div>
 
 
-
-
-![img](docs/任务面板截图/肖龙海-账本.png)
 
 
 
 # 五、项目运行截图
 
-![](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\图表模块-点击切换按钮显示月数据.png)
+![](docs\项目运行截图\图表模块-点击切换按钮显示月数据.png)
 
-![图表模块-显示周数据](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\图表模块-显示周数据.png)
+![图表模块-显示周数据](docs\项目运行截图\图表模块-显示周数据.png)
 
-![图表模块-月数据点击扇叶](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\图表模块-月数据点击扇叶.png)
+![图表模块-月数据点击扇叶](docs\项目运行截图\图表模块-月数据点击扇叶.png)
 
-![图表模块-周数据点击扇叶](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\图表模块-周数据点击扇叶.png)
+![图表模块-周数据点击扇叶](docs\项目运行截图\图表模块-周数据点击扇叶.png)
 
-![帐本模块-账单明细](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\帐本模块-账单明细.png)
+![帐本模块-账单明细](docs\项目运行截图\帐本模块-账单明细.png)
 
-![账本记录页面-日期选择](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\账本记录页面-日期选择.png)
+![账本记录页面-日期选择](docs\项目运行截图\账本记录页面-日期选择.png)
 
-![账本模块-显示账本内容](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\账本模块-显示账本内容.png)
+![账本模块-显示账本内容](docs\项目运行截图\账本模块-显示账本内容.png)
 
-![账本模块-账本记录页面](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\账本模块-账本记录页面.png)
+![账本模块-账本记录页面](docs\项目运行截图\账本模块-账本记录页面.png)
 
-![账本模块-账本显示](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\账本模块-账本显示.png)
+![账本模块-账本显示](docs\项目运行截图\账本模块-账本显示.png)
 
-![账本-选择账本类型](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\账本-选择账本类型.png)
+![账本-选择账本类型](docs\项目运行截图\账本-选择账本类型.png)
 
-![资产-编辑资产选择银行](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-编辑资产选择银行.png)
+![资产-编辑资产选择银行](docs\项目运行截图\资产-编辑资产选择银行.png)
 
-![资产-添加银行卡](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-添加银行卡.png)
+![资产-添加银行卡](docs\项目运行截图\资产-添加银行卡.png)
 
-![资产-添加资产页面搜索资产](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-添加资产页面搜索资产.png)
+![资产-添加资产页面搜索资产](docs\项目运行截图\资产-添加资产页面搜索资产.png)
 
-![资产-显示单个资产金额](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-显示单个资产金额.png)
+![资产-显示单个资产金额](docs\项目运行截图\资产-显示单个资产金额.png)
 
-![资产-显示全部类型资产](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-显示全部类型资产.png)
+![资产-显示全部类型资产](docs\项目运行截图\资产-显示全部类型资产.png)
 
-![资产-隐藏金额](D:\ImDeveloper\github\Keep_Book_App\docs\项目运行截图\资产-隐藏金额.png)
+![资产-隐藏金额](docs\项目运行截图\资产-隐藏金额.png)
 
 
 
