@@ -63,14 +63,10 @@
 
 # 四、任务面板截图
 
-<div style="float: left;">
 
-<img src="docs/任务面板截图/黄伟强-图表.png" width="300" />
-<img src="docs/任务面板截图/罗庆宏-资产.png" width="300" />
-<img src="docs/任务面板截图/肖龙海-账本.png" width="300" />
-
-
-</div>
+![](docs/任务面板截图/黄伟强-图表.png)
+![](docs/任务面板截图/罗庆宏-资产.png)
+![](docs/任务面板截图/肖龙海-账本.png)
 
 
 
@@ -78,10 +74,10 @@
 
 # 五、项目运行截图
 
-<div style="float: left;">
 
-<img src="docs/项目运行截图/图表模块-点击切换按钮显示月数据.png" width="300" />
-<img src="docs/项目运行截图/图表模块-显示周数据.png" width="300" />
+![](docs/项目运行截图/图表模块-点击切换按钮显示月数据.png)
+ 
+<img src=docs/项目运行截图/图表模块-显示周数据.png width="300" />
 <img src="docs/项目运行截图/图表模块-月数据点击扇叶.png" width="300" />
 <img src="docs/项目运行截图/图表模块-周数据点击扇叶.png" width="300" />
 <img src="docs/项目运行截图/帐本模块-账单明细.png" width="300" />
@@ -97,11 +93,6 @@
 <img src="docs/项目运行截图/资产-显示全部类型资产.png" width="300" />
 <img src="docs/项目运行截图/资产-显示全部类型资产.png" width="300" />
 <img src="docs/项目运行截图/产-隐藏金额.png" width="300" />
-
-
-</div>
-
-
 
 
 
